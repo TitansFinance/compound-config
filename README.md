@@ -1,7 +1,7 @@
 
-# Compound Config
+# Velend Config
 
-This repository contains all configuration for the Compound Protocol on Ethereum. Projects wishing to interact with Compound contracts will be able to find contract addresses, ABIs and interfaces for the core Compound contracts in this repo.
+This repository contains all configuration for the Velend Protocol on Ethereum. Projects wishing to interact with Compound contracts will be able to find contract addresses, ABIs and interfaces for the core Velend contracts in this repo.
 
 ## Getting Started
 
