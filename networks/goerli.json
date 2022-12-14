@@ -144,7 +144,7 @@
       "description": "Standard",
       "name": "Compound USDT",
       "symbol": "USDT",
-      "decimals": 18,
+      "decimals": 6,
       "contract": "FaucetToken",
       "address": "0x7f8FC6e279CFd7cE13D7b86B2443C4B911A6ad87"
     },
