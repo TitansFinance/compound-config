@@ -6,7 +6,7 @@
     "ZeroComptroller": "0x16e175eE9f555E43FD01f3aFa359A37b10e5139b",
     "PriceOracleProxy": "0xAB7F9D3aD3dD318a9Beb85726e58841DBc207590",
     "Maximillion": "0xFBBDBa59516adA2eADf50f96cE0151edC9e0A674",
-    "Base200bps_Slope2000bps_Jump20000bps_Kink90": "0xd6b25c050B7f8973C373c48d749cA85B869a930F",
+    "Base200bps_Slope2000bps_Jump20000bps_Kink90": "0x47209f3cEaD93766b36c97E368F1358F15E17895",
     "cDAI": "0xbE98946c572480dDca150206A3504028Fd6BA920",
     "CompoundLens": "0x90eD8bF9069c1896949CC9527cF75203f29c6608",
     "DAI": "0xb7284622c2f6a4E4F4E5B59c8A29350A7eEd9A0A",
@@ -16,13 +16,13 @@
     "Comptroller": "0x7c3f41D6AF3cB122B73E7940d52696e989Cf01a2",
     "cUSDT": "0x1145e6390BD57D63823FF52C2C096fD36507dB34",
     "cBAT": "0x508E117B7Fab8a67c9f0C307ea4a489DA7f20063",
-    "Base0bps_Slope2000bps": "0xfA7FECA195C6864fa6908c05F4b2C7A8c5BbC801",
+    "Base0bps_Slope2000bps": "0x739fb21D964fd7CF5401E11632B012802a3168dF",
     "BAT": "0xc4a0bAc9496ef65f511d42e5C21c29E3156f0D84",
     "cETH": "0x6B16DA6129e2F866320Aa2BAE0Eb1D18e73BE80A",
     "cUsdtDelegate": "0x5cd19B2923A4765224a168f87eDC736f7f9aC226",
     "Base500bps_Slope1200bps": "0xE12630c8Fdd7d0096c9Cd72Cd228598AEBe58795",
     "Timelock": "0xe4cD9a61431FbD268ea842D68533561262C17513",
-    "Base200bps_Slope3000bps": "0xfA7FECA195C6864fa6908c05F4b2C7A8c5BbC801",
+    "Base200bps_Slope3000bps": "0x739fb21D964fd7CF5401E11632B012802a3168dF",
     "ComptrollerG2": "0xb1983eE0064Fdb2A581966715DC9bA4D8B289A6A",
     "USDC": "0xCcf8611aBECE7c73AF99f9010629a2E75fab299e"
   },
@@ -253,7 +253,7 @@
       "description": "WhitePaper baseRate=50000000000000000 multiplier=120000000000000000",
       "base": "2000000000000000000",
       "slope": "13000000000000000000",
-      "address": "0xfA7FECA195C6864fa6908c05F4b2C7A8c5BbC801"
+      "address": "0x739fb21D964fd7CF5401E11632B012802a3168dF"
     },
     "Base0bps_Slope2000bps": {
       "name": "Base0bps_Slope2000bps",
@@ -261,7 +261,7 @@
       "description": "WhitePaper baseRate=0 multiplier=200000000000000000",
       "base": "2000000000000000000",
       "slope": "13000000000000000000",
-      "address": "0xfA7FECA195C6864fa6908c05F4b2C7A8c5BbC801"
+      "address": "0x739fb21D964fd7CF5401E11632B012802a3168dF"
     },
     "Base200bps_Slope3000bps": {
       "name": "Base200bps_Slope3000bps",
@@ -269,7 +269,7 @@
       "description": "WhitePaper baseRate=20000000000000000 multiplier=300000000000000000",
       "base": "2000000000000000000",
       "slope": "13000000000000000000",
-      "address": "0xfA7FECA195C6864fa6908c05F4b2C7A8c5BbC801"
+      "address": "0x739fb21D964fd7CF5401E11632B012802a3168dF"
     },
     "Base200bps_Slope2000bps_Jump20000bps_Kink90": {
       "name": "Base200bps_Slope2000bps_Jump20000bps_Kink90",
@@ -279,7 +279,7 @@
       "slope": "200000000000000000",
       "jump": "1090000000000000000",
       "kink": "800000000000000000",
-      "address": "0xd6b25c050B7f8973C373c48d749cA85B869a930F"
+      "address": "0x47209f3cEaD93766b36c97E368F1358F15E17895"
     }
   }
 }
