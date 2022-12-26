@@ -5,7 +5,7 @@
     "PriceOracle": "0xAB7F9D3aD3dD318a9Beb85726e58841DBc207590",
     "ZeroComptroller": "0x16e175eE9f555E43FD01f3aFa359A37b10e5139b",
     "PriceOracleProxy": "0xAB7F9D3aD3dD318a9Beb85726e58841DBc207590",
-    "Maximillion": "0xFBBDBa59516adA2eADf50f96cE0151edC9e0A674",
+    "Maximillion": "0x71c037d40C53B7c21c2728bBB5ACB2d68831E307",
     "Base200bps_Slope2000bps_Jump20000bps_Kink90": "0x47209f3cEaD93766b36c97E368F1358F15E17895",
     "cDAI": "0xbE98946c572480dDca150206A3504028Fd6BA920",
     "CompoundLens": "0x90eD8bF9069c1896949CC9527cF75203f29c6608",
@@ -59,7 +59,7 @@
   "Maximillion": {
     "description": "Maximillion",
     "cEtherAddress": "0x6B16DA6129e2F866320Aa2BAE0Eb1D18e73BE80A",
-    "address": "0xFBBDBa59516adA2eADf50f96cE0151edC9e0A674"
+    "address": "0x71c037d40C53B7c21c2728bBB5ACB2d68831E307"
   },
   "CompoundLens": {
     "name": "CompoundLens",
